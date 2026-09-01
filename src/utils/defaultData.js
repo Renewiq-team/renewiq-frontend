@@ -81,7 +81,7 @@ export const defaultData = {
       },
       {
         id: 'cust_4',
-        name: 'Sarfraz',
+        name: 'Md Sarfraz',
         email: 'sarfraz11@email.com',
         phone: '+91 97654 32109',
         status: 'inactive',
