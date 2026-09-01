@@ -64,7 +64,7 @@ export const defaultData = {
       {
         id: 'cust_2',
         name: 'Shoaib Akhtar',
-        email: 'priya.p@email.com',
+        email: 'shoaibakhtar14022002@gmail.com',
         phone: '+91 91234 56789',
         status: 'active',
         joinDate: '2025-05-20',
@@ -73,7 +73,7 @@ export const defaultData = {
       {
         id: 'cust_3',
         name: 'Aqbal Ahmad',
-        email: 'Aqbalahmad@email.com',
+        email: 'aqbalahmad09@email.com',
         phone: '+91 99887 76655',
         status: 'active',
         joinDate: '2025-01-08',
@@ -82,7 +82,7 @@ export const defaultData = {
       {
         id: 'cust_4',
         name: 'Sarfraz',
-        email: 'sarfraz@email.com',
+        email: 'sarfraz11@email.com',
         phone: '+91 97654 32109',
         status: 'inactive',
         joinDate: '2024-11-15',
@@ -108,8 +108,8 @@ export const defaultData = {
       },
       {
         id: 'cust_7',
-        name: 'Rafat',
-        email: 'rafat@email.com',
+        name: 'Milind Suman',
+        email: 'milind@gmail.com',
         phone: '+91 94321 09876',
         status: 'churned',
         joinDate: '2024-09-10',
